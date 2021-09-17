@@ -1,0 +1,15 @@
+ All the Requirements finalized and analyzed	 
+ Test Plan created and reviewed	  
+ Test Cases preparation done	
+ Test Case review and sign off	
+ Test Data availability	
+ Smoke Testing	
+ Is Sanity Testing done?	
+ Team aware of the roles and responsibilities	
+ Team aware of the deliverables expected of them	
+ Team aware of the Communication protocol	
+ Team’s access to the application, version control tools, Test Management	
+ Team’s trained	
+ Technical Aspects- Server1 refreshed or not	
+ Defect reporting standards are defined
+
