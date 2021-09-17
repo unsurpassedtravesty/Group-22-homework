@@ -1,0 +1,9 @@
+name/ID, 
+summary, 
+visual proof, 
+environment, 
+source URL, 
+console logs, 
+steps to reproduce, 
+expected vs. actual results
+.
